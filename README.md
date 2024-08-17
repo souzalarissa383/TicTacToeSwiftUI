@@ -20,7 +20,11 @@ Jogo da velha desenvolvido em SwiftUI
 <p>
 
 ### ⚙ IDE
+  
 <p>
+  
  » [Xcode](https://developer.apple.com/xcode/)
+  
 <p><br>
  
+
